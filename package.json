@@ -1,0 +1,28 @@
+{
+  "name": "discord_bot_firstbottest",
+  "version": "1.0.0",
+  "description": "KID First Discord Bot Test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KID421/Discord_Bot_FirstBotTest.git"
+  },
+  "keywords": [
+    "KID",
+    "Discord",
+    "Bot",
+    "Tutorial"
+  ],
+  "author": "KID",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KID421/Discord_Bot_FirstBotTest/issues"
+  },
+  "homepage": "https://github.com/KID421/Discord_Bot_FirstBotTest#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  }
+}
